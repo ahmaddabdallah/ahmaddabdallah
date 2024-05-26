@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ahmaddabdallah
+- 👀 I’m interested in technology , technical and programming.
+- 🌱 I’m currently learning Full stack development
+- 💞️ I’m looking to collaborate on we school Egypt
+- 📫 How to reach me on tiktok : https://www.tiktok.com/@ahmadabdallahtech?is_from_webapp=1&sender_device=pc
+- ⚡ Fun fact: I love Python and Full stack development
